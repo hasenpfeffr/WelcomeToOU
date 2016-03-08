@@ -1,1 +1,51 @@
+h1
+{
+	text-align:center;
+	font-size: 300%;
+}
+
+
+body 
+{ 
+  background-color: #c63d0f;
+}
+#body {
+	background: #c63d0f;
+}
+table 
+{
+	width: 80%;
+	height: 100%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	border-collapse: collapse;
+	cellspacing: 8px;
+}
+
+th, td 
+{
+    border-bottom: 8px solid #c63d0f;
+}
+
+td 
+{
+	
+  	font-size: 2.0em;
+	text-align:left;
+	background-color:#fdf3ec; 
+}
+
+th 
+{
+    height: 50px;
+}
+
+#credits
+{
+	font-family:Helvetica;
+	font-size:15;
+	text-align:right;
+	color:#fdf3ec;
+}
 
